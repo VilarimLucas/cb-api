@@ -40,6 +40,11 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
+  @font-face {
+    font-family: 'MiltonianTattoo-Regular';
+    src: url('../fonts/miltonian-tattoo/MiltonianTattoo-Regular.ttf') format('ttf'),
+  }
+  
 html {
   font-family: sans-serif;
   line-height: 1.15;
@@ -69,6 +74,7 @@ hr {
   overflow: visible; }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: 'MiltonianTattoo-Regular';
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
