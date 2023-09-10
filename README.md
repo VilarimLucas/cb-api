@@ -18,5 +18,5 @@ Siga os passos abaixo para configurar e executar o backend da aplicação:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/VilarimLucas/cb-api.git)https://github.com/VilarimLucas/cb-api.git
 
