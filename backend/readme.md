@@ -30,6 +30,8 @@ npm install --save sequelize
 npm install --save body-parser
 npm install --save mysql2
 npm install --save-dev sequelize-cli
+npx sequelize db:create
+npx sequelize db:migrate
 ```
 
 ### 3. Para rodar a API é necessário o seguinte comando no Powershell
