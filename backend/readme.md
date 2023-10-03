@@ -5,7 +5,9 @@ Este é o backend do projeto Cubo Mágico. Este guia irá ajudá-lo a configurar
 ## Requisitos Prévios
 
 - Node.js e npm instalados. Você pode baixá-los em [nodejs.org](https://nodejs.org/).
-
+- MySQL: A configuração é local, mas pode ser facilmente reconfigurada no arquivo backend/config/config.json
+    - [mySQL download](https://dev.mysql.com/downloads/installer/)
+    - [Interface Workbench] (https://dev.mysql.com/downloads/workbench/)
 ## Instalação
 
 Siga os passos abaixo para configurar o ambiente de desenvolvimento do backend do Cubo Mágico.
