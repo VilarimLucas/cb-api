@@ -8,7 +8,7 @@ Este é o backend do projeto Cubo Mágico. Este guia irá ajudá-lo a configurar
 - MySQL: A configuração é local, mas pode ser facilmente reconfigurada no arquivo backend/config/config.json
     - [mySQL download](https://dev.mysql.com/downloads/installer/)
     - [Interface Workbench](https://dev.mysql.com/downloads/workbench/)
-    
+
 ## Instalação
 
 Siga os passos abaixo para configurar o ambiente de desenvolvimento do backend do Cubo Mágico.
@@ -30,6 +30,12 @@ npm install --save sequelize
 npm install --save body-parser
 npm install --save mysql2
 npm install --save-dev sequelize-cli
+```
+
+### 3. Para rodar a API é necessário o seguinte comando no Powershell
+```powershell
+
+npm run dev
 ```
 
 
