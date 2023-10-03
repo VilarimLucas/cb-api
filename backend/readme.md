@@ -15,7 +15,7 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento do backend d
 ```bash
 git clone https://github.com/VilarimLucas/cb-api.git
 
-```powershell
+
 
 cd cb-api/backend
 
