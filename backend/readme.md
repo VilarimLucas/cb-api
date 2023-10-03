@@ -12,11 +12,12 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento do backend d
 
 ### 1. Clone o Repositório
 
+
 ```bash
 git clone https://github.com/VilarimLucas/cb-api.git
-
+```
 ### 2. Configure o Backend NODE + EXPRESS
-
+```powershell
 cd cb-api/backend
 
 npm init -y
@@ -26,6 +27,7 @@ npm install --save sequelize
 npm install --save body-parser
 npm install --save mysql2
 npm install --save-dev sequelize-cli
+```
 
 
 
