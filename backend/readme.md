@@ -23,7 +23,6 @@ git clone https://github.com/VilarimLucas/cb-api.git
 ```powershell
 cd cb-api/backend
 
-npm init -y
 npm install express --save
 npm install -g nodemon
 npm install --save sequelize
